@@ -1,3 +1,6 @@
+# About this fork
+This fork aims to remove some of the annoyances that I had while importing custom models and had to work with different workspaces.
+
 # Party-Studio
 A board editor for MPSA and possibly older games in the future. 
 
